@@ -1,0 +1,29 @@
+body{
+	background-color:orange;
+	margin-top: 200px;
+	text-align: center;
+	text-shadow: black;
+	
+}
+
+#login{
+	background-color: black;
+	text-align: center;
+	margin-top: 100px;
+	border-radius: 20px;
+	margin-left:700px; 
+	height: 20px;
+	color: white;
+	width: 80px;
+}
+
+#register{
+	background-color: black;
+	color: #FFFFFF;
+	border-radius: 20px;
+	text-align: center;
+	margin-left:700px; 
+	height: 20px;
+	width: 90px;
+}
+
